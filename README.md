@@ -1,5 +1,5 @@
 # Pechay-Disease-Classification
-Pechay-Disease-Classification task is to classify if a Pechay has a Overall Chlorosis, Interveinal Chlorosis, Purpling and Necrosis Disease. 
+Pechay-Disease-Classification task is to classify if a Pechay has an Overall Chlorosis, Interveinal Chlorosis, Purpling and Necrosis Disease. 
 
 The Client folder consists of a main python file, and when run, it will show the GUI made in Qt Designer. I used PyQt5 to make the application functionalities. 
 
